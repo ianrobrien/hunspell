@@ -1,0 +1,2 @@
+# hunspell
+Hunspell Docker image
